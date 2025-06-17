@@ -1,12 +1,12 @@
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\model\NotificationEvent.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\config\WebSocketConfig.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\service\KafkaListenerService.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\config\KafkaConfig.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\NotificationServiceApplication.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\config\EmailConfig.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\service\NotificationService.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\model\Notification.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\controller\NotificationController.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\repository\NotificationRepository.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\model\NotificationRequest.java
-F:\TaskMaster\Notification-Service - Copy\src\main\java\org\example\service\EmailService.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\controller\NotificationController.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\repository\NotificationRepository.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\service\EmailService.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\model\NotificationEvent.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\model\NotificationRequest.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\config\KafkaConfig.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\config\WebSocketConfig.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\service\KafkaListenerService.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\service\NotificationService.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\Main.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\model\Notification.java
+F:\TaskMaster\Final-for-Use\Notification-Service\src\main\java\org\example\config\EmailConfig.java

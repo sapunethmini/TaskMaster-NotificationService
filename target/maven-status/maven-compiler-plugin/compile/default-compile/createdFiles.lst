@@ -1,0 +1,15 @@
+org\example\config\EmailConfig.class
+org\example\controller\NotificationController.class
+org\example\config\KafkaConfig.class
+org\example\model\Notification$NotificationType.class
+org\example\service\NotificationService$1.class
+org\example\service\NotificationService.class
+org\example\service\EmailService.class
+org\example\config\WebSocketConfig.class
+org\example\model\NotificationEvent.class
+org\example\Main.class
+org\example\model\NotificationRequest.class
+org\example\repository\NotificationRepository.class
+org\example\service\KafkaListenerService.class
+org\example\model\Notification.class
+org\example\model\Notification$NotificationStatus.class
